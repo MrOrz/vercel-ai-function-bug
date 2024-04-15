@@ -1,4 +1,4 @@
-# Vercel AI SDK 3.0.22 function calling bug reproduce
+# Vercel AI SDK 3.0.22 function calling bug reproduction
 
 First, make a copy of `.env.local`
 ```bash
